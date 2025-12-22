@@ -9,9 +9,9 @@
 <p align = "center"> Graphics made by me, please do not claim as yours or use ! </p>
 
 <div align ="center"> 
-<img src ="https://64.media.tumblr.com/5270dddd63ed98bedb83f544aa351ce2/9fcbb75a724cdf87-20/s500x750/d7b2f53eeecec265233775134d19fbce56768b7b.pnj" height="400" width="400"> 
+<a href= "https://rentry.co/reptilespectrum"> <img src ="https://64.media.tumblr.com/5270dddd63ed98bedb83f544aa351ce2/9fcbb75a724cdf87-20/s500x750/d7b2f53eeecec265233775134d19fbce56768b7b.pnj" height="400" width="400"/> </a>
 </div>
 
 <div>
-<img src ="https://64.media.tumblr.com/5d22cdd217340aa6a13a32d7486f4c2e/9fcbb75a724cdf87-c1/s2048x3072/1df23e8174e8fb9827ca0b34e004b47eaecac0db.pnj" > <a href= "https://rentry.co/reptilespectrum">
+<img src ="https://64.media.tumblr.com/5d22cdd217340aa6a13a32d7486f4c2e/9fcbb75a724cdf87-c1/s2048x3072/1df23e8174e8fb9827ca0b34e004b47eaecac0db.pnj" />
 </div>
