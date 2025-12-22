@@ -1,16 +1,18 @@
-## Hi there 👋
+<div>
+<img src ="https://64.media.tumblr.com/b1a4422dfe71ef1df1d22b63eb07494d/9fcbb75a724cdf87-c6/s2048x3072/84b61c5fb655d170d24ef8ea878a34a52ed8e3ea.pnj">
+</div>
 
-<!--
-**beautyoncanvas/beautyoncanvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎![](https://komarev.com/ghpvc/?username=beautyoncanvas&color=c26442&style=plastic&label=Awesome+People&abbreviated=true)
+<p align ="center"> <img src="https://64.media.tumblr.com/06ce077ed2d42ad0d8567af7b00255b0/9fcbb75a724cdf87-58/s1280x1920/b4f03ba967b7bf2d5e6b2800309dbad8488ad0cb.pnj"> </p>
 
-Here are some ideas to get you started:
+‎<p align = "center"> Please commission or at least check out artists i will present on this account. It's something that will be updated with time so be patient. Reach out if you wish to be here :) ‎ </p>
+<p align = "center"> Graphics made by me, please do not claim as yours or use ! </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">  Art made by @Dreamloby: </p>
+<div align="center">
+<img src ="OHMYGAWD.jpg">
+</div>
+
+<div>
+<img src ="https://64.media.tumblr.com/5d22cdd217340aa6a13a32d7486f4c2e/9fcbb75a724cdf87-c1/s2048x3072/1df23e8174e8fb9827ca0b34e004b47eaecac0db.pnj" >
+</div>
