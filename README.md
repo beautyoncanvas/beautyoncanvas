@@ -6,6 +6,7 @@
 <p align ="center"> <img src="https://64.media.tumblr.com/06ce077ed2d42ad0d8567af7b00255b0/9fcbb75a724cdf87-58/s1280x1920/b4f03ba967b7bf2d5e6b2800309dbad8488ad0cb.pnj"> </p>
 
 <p align = "center"> Graphics made by me, please do not claim as yours or use ! </p>
+<p align = "center"> Tik tok: @beauty.on.canvas ; instagram: beauty.oncanvas ; tumblr: beautyoncanvas ; Feel free to give me advice on how to have a bigger reach !!! I want to help everymeow as much as i can ;3
 
 <div align ="center"> <img src ="https://64.media.tumblr.com/9f2e4629e7e0e94539f004dea571a7ab/498a278ceb3c95cc-79/s1280x1920/87b7f70fc86d46080da1c0811686c01fb2966734.pnj"></div>
 
