@@ -12,7 +12,10 @@
 
 ‎<p align = "center"> Please commission or at least check out artists i will present on this account. It's something that will be updated with time so be patient. Reach out if you wish to be here :) ‎ </p>
 <div align ="center"> 
-<a href= "https://rentry.co/reptilespectrum"> <img src ="https://64.media.tumblr.com/b2d45835270eda0534a16e22bcc22bd4/498a278ceb3c95cc-0c/s500x750/b342ec6a7ae3aed2f567809131e2187d530d8e24.pnj" height="400" width="400"/></a> <a href="https://celestyncomm.carrd.co" > <img src = "https://64.media.tumblr.com/c2ddf1dcb07948752f7381cee3066c45/498a278ceb3c95cc-bc/s500x750/4078594581e0aec2b695be918290ea9709be378e.pnj" height="400" width="400> </a> <a href= "https://x.com/Lumine_ig"><img src ="https://64.media.tumblr.com/5466f2475b51ee35443e9eaafbc9d16d/498a278ceb3c95cc-d9/s500x750/03aa8688987f94d3db6353b0762122f4e0609fe8.pnj" height="400" width="400"/></a> 
+<a href= "https://rentry.co/reptilespectrum"> <img src ="https://64.media.tumblr.com/b2d45835270eda0534a16e22bcc22bd4/498a278ceb3c95cc-0c/s500x750/b342ec6a7ae3aed2f567809131e2187d530d8e24.pnj" height="400" width="400"/></a> 
+<a href= "https://celestyncomm.carrd.co"> <img src ="https://64.media.tumblr.com/c2ddf1dcb07948752f7381cee3066c45/498a278ceb3c95cc-bc/s500x750/4078594581e0aec2b695be918290ea9709be378e.pnj" height="400" width="400"/></a> 
+<a href="https://x.com/Lumine_ig"><img src ="https://64.media.tumblr.com/5466f2475b51ee35443e9eaafbc9d16d/498a278ceb3c95cc-d9/s500x750/03aa8688987f94d3db6353b0762122f4e0609fe8.pnj" height="400" width="400"></a>
+<a href="https://x.com/chiscaraburger/status/1970326054347960525"> <img src ="https://64.media.tumblr.com/1bf520e3241b398bea8a4a1c12631a0c/498a278ceb3c95cc-a5/s500x750/d5c1423e87ebd520597d35df3811a7667fc6c20f.pnj" height="400" width="400"></a>
 </div>
 
 <div>
